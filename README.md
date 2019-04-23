@@ -1,7 +1,5 @@
 # VueJS Basic Coding Projects
 
-# Course Material and FAQ for my Complete JavaScript Course
-
 This repo contains basic exercises and follow alongs in my journey to learning VueJS.
 
 ##HelloWorld
