@@ -1,7 +1,7 @@
 # VueJS Basic Coding Projects
 This repo contains basic exercises and follow alongs in my journey to learning VueJS.
 
-## HelloWorld
+## HelloWorld - 04/17/19
 First Vue Program  Woo Hoo!!
 
 ## HelloWorld2 - 04/23/19
