@@ -1,4 +1,4 @@
-# VueJS Basic Coding Projects
+#VueJS Basic Coding Projects
 This repo contains basic exercises and follow alongs in my journey to learning VueJS.
 
 ##HelloWorld
