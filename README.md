@@ -12,3 +12,6 @@ Demonstrate use of binding, Vue directives, and data templates.
 
 ## Follow Along - Events - 04/24/19
 Learning events like mousemove (and update coordinates in the DOM), keyup (enter and space keyup), alerts, input
+
+## Exercise - Events - 04/24/19
+Key learning: if you want to display the input collected from v-on:keydown, it will lag by one keystroke.   Use v-on:input, or v-on:keyup for realtime display.
